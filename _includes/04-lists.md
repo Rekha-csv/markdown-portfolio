@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- emoji
+  1. ❤️
+  2. 🎄
+  3. 😃
+- favourites
+   1.🥇
+   3.😆
+   5.👼
